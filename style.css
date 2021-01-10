@@ -1,0 +1,46 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+ul{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+
+.slide-left{
+	width: 50%;  
+	height: 100vh; 
+background-image: url("download.jpg");
+background-attachment: fixed;
+background-size: 100vh auto;
+background-repeat:no-repeat;
+overflow:hidden;
+position:relative;
+}
+.slide-right{
+	width:50%;
+	height:100vh;
+	background-image: url("white.jpg");
+background-attachment: fixed;
+background-size: 100vh auto;
+background-repeat:no-repeat;
+overflow:hidden;
+position:relative;
+}
+.wrapper{
+	display:flex; 
+}
+.ronflex{
+	margin-top: 50px;
+	
+}
+#ratata{
+	margin-top: 40px;
+}
+.goinfrex{
+	margin-left: 150px;
+}
+
+
