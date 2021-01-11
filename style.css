@@ -13,7 +13,7 @@ a{
 .slide-left{
 	width: 50%;  
 	height: 100vh; 
-background-image: url("download.jpg");
+background-color: black;
 background-attachment: fixed;
 background-size: 100vh auto;
 
@@ -22,7 +22,7 @@ position:relative;
 .slide-right{
 	width:50%;
 	height:100vh;
-	background-image: url("white.jpg");
+	background-color: white;
 
 background-repeat:no-repeat;
 overflow:hidden;
@@ -211,14 +211,14 @@ font-size:25px ;
 
 .Sneaker{
 	position: relative;
-	top: -90vh
+	top: -77vh
 }
-.first-boutton{
+.firstbutton{
 	position:relative;
 	top: -69vh;
 	left:85vh;
 }
 #naame{
 	position: relative;
-	bottom: -40vh;
+	bottom: -24vh;
 }
