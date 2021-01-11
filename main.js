@@ -19,9 +19,9 @@ var i =0
 var products=[
 {image:"chicago.png",price:"350$"},
 {image:"green.png",price:"400$"},
-{image:"blackwhite.jpg",price:"250$"},
-{image:"brown.jpg",price:"400$"},
-{image:"dior.jpg",price:"220$"},
+{image:"blackwhite.jpg",price:"550$"},
+{image:"brown.jpg",price:"500$"},
+{image:"dior.jpg",price:"480$"},
 {image:"orange.jpg",price:"10 630,00$"},
 {image:"purple.png",price:"300$"},
 {image:"blue.jpg",price:"450$"}]
